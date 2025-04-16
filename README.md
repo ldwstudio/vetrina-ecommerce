@@ -1,36 +1,43 @@
+# Vetrina E-Commerce in stile Shopify – LDW Studio
 
-# Vetrina E-Commerce come Shopfiy – LDW Studio
-
-Landing page responsive utilizzabile con negozio Shopify o qualsiasi altro e-commerce, pensata per dropshipper e business online che vogliono una presenza professionale, chiara e veloce da navigare.
+Demo e-commerce responsive, progettata per negozi online, dropshipper e attività digitali che vogliono una presenza elegante, professionale e pronta a convertire.
 
 👉 [![Live Demo](https://img.shields.io/badge/Demo-online-blue?style=for-the-badge)](https://ldwstudio.github.io/vetrina-ecommerce/)
 
-## ✨ Caratteristiche
+---
 
-- Hero d’impatto con call to action
-- Sezione "Chi Siamo" per presentare il servizio
-- Servizi chiari con layout a card
-- Testimonianze reali o placeholder
-- Footer con contatto diretto (email)
-- Design responsive e font moderno (monospace + sans-serif)
+## ✨ Caratteristiche principali
 
-## 📦 Tech Stack
+- Hero iniziale d’impatto con call to action chiara
+- Layout prodotti in stile e-commerce moderno con immagini, titoli e hover effect
+- Sezione “Prezzi” con griglia pacchetti per presentare le offerte
+- Footer con contatti diretti e collegamento alla homepage LDW Studio
+- Design completamente responsive
+- Animazioni leggere e stile fluido
+- Font moderni (monospace + sans-serif) con palette bianco/blu
 
-- [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-- [![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-- Google Fonts
-- [GitHub Pages](https://pages.github.com/) per il deploy
+---
+
+## 🛠 Tech Stack
+
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-181717?style=for-the-badge&logo=github)](https://pages.github.com/)
+
+---
 
 ## 👨‍💻 Autore
 
-**LDW Studio** – Creo siti moderni e strumenti web su misura  
-[![Contattami](https://img.shields.io/badge/Email-luca@arredoweb.com-blue?style=for-the-badge&logo=gmail)](mailto:luca@arredoweb.com)
-[![LDW Studio](https://img.shields.io/badge/Sito-LDW%20Studio-blue?style=for-the-badge&logo=internet-explorer)](https://ldwstudio.github.io)
+**LDW Studio** – Creo siti moderni e strumenti web su misura
 
+[![Contattami](https://img.shields.io/badge/Email-luca@arredoweb.com-blue?style=for-the-badge&logo=gmail)](mailto:luca@arredoweb.com)  
+[![LDW Studio](https://img.shields.io/badge/Sito-LDW%20Studio-blue?style=for-the-badge&logo=internet-explorer)](https://ldwstudio.github.io)  
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)](https://ldwstudio.github.io)
+
 ---
 
 ### 📌 Vuoi una versione personalizzata?
 
-Contattami per sviluppare la tua landing professionale su misura.  
-Tempi rapidi, stile moderno, assistenza inclusa.
+Contattami per sviluppare la tua landing professionale o negozio su misura.  
+Tempi rapidi · Stile moderno · Assistenza inclusa.
