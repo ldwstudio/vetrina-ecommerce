@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>LDW Studio - eCommerce Demo</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+  <a href="mailto:luca@arredoweb.com" class="contact-badge">Contattaci</a>
+
+  <header>
+    <nav>
+      <div class="logo"><i class="fas fa-store"></i>LDW Studio</div>
+      <div class="nav-links">
+        <a href="#home">Home</a>
+        <a href="#products">Prodotti</a>
+        <a href="#footer">Contatti</a>
+        <div class="cart-icon">
+          <i class="fas fa-shopping-cart"></i>
+          <span class="cart-count">0</span>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section id="hero" class="hero">
+    <div class="carousel">
+      <div class="carousel-slide" style="background-image: url('https://images.unsplash.com/photo-1441986300917-64674bd600d8')"></div>
+      <div class="carousel-slide" style="background-image: url('https://images.unsplash.com/photo-1491897554428-130a60dd4757')"></div>
+      <div class="carousel-slide" style="background-image: url('https://images.unsplash.com/photo-1516387938699-a93567ec168e')"></div>
+    </div>
+    <h1>Il Tuo eCommerce Professionale</h1>
+    <p>Soluzioni moderne per il tuo business digitale</p>
+    <a href="#products" class="cta-button">Scopri i Prodotti</a>
+  </section>
+
+    <section id="products" class="products">
+      <h2>I Nostri Prodotti</h2>
+      <div class="product-grid">
+        <div class="product-card">
+          <div class="product-image">
+            <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e" alt="Prodotto 1">
+          </div>
+          <h3>Cuffie Premium</h3>
+          <p>€299.99</p>
+          <button class="add-to-cart">Aggiungi al Carrello</button>
+        </div>
+        <div class="product-card">
+          <div class="product-image">
+            <img src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f" alt="Prodotto 2">
+          </div>
+          <h3>Fotocamera Vintage</h3>
+          <p>€499.99</p>
+          <button class="add-to-cart">Aggiungi al Carrello</button>
+        </div>
+        <div class="product-card">
+          <div class="product-image">
+            <img src="https://images.unsplash.com/photo-1572635196237-14b3f281503f" alt="Prodotto 3">
+          </div>
+          <h3>Occhiali Smart</h3>
+          <p>€199.99</p>
+          <button class="add-to-cart">Aggiungi al Carrello</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="showcase" class="showcase">
+      <h2>In Evidenza</h2>
+      <div class="showcase-slider">
+        <div class="showcase-track">
+          <div class="showcase-item">
+            <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30" alt="Smartwatch">
+            <h3>Smartwatch Elite</h3>
+            <p class="price">€399.99</p>
+            <div class="tag">Nuovo</div>
+          </div>
+          <div class="showcase-item">
+            <img src="https://images.unsplash.com/photo-1546868871-7041f2a55e12" alt="Tablet">
+            <h3>Tablet Pro</h3>
+            <p class="price">€899.99</p>
+            <div class="tag">Bestseller</div>
+          </div>
+          <div class="showcase-item">
+            <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e" alt="Cuffie">
+            <h3>Cuffie Pro</h3>
+            <p class="price">€299.99</p>
+            <div class="tag">Offerta</div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="footer">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h4>LDW Studio</h4>
+        <p>Soluzioni eCommerce professionali</p>
+      </div>
+      <div class="footer-section">
+        <h4>Collegamenti</h4>
+        <a href="https://ldwstudio.github.io" target="_blank">Sito Principale</a>
+      </div>
+      <div class="footer-section">
+        <h4>Contattaci</h4>
+        <p>Per informazioni e preventivi:</p>
+        <a href="mailto:luca@arredoweb.com" class="footer-email">luca@arredoweb.com</a>
+      </div>
+    </div>
+  </footer>
+
+  <div class="cart-popup">
+    <div class="cart-content">
+      <div class="cart-header">
+        <h3>Carrello</h3>
+        <div class="cart-close"><i class="fas fa-times"></i></div>
+      </div>
+      <div class="cart-items"></div>
+      <div class="cart-total">Totale: €0.00</div>
+      <button class="checkout-button">Procedi al Checkout</button>
+    </div>
+  </div>
+
+  <div class="checkout-popup">
+    <div class="checkout-content">
+      <div class="checkout-header">
+        <h3>Checkout</h3>
+        <div class="checkout-close"><i class="fas fa-times"></i></div>
+      </div>
+      <form class="checkout-form">
+        <h4>Dati di Spedizione</h4>
+        <input type="text" placeholder="Nome e Cognome" required>
+        <input type="email" placeholder="Email" required>
+        <input type="tel" placeholder="Telefono" required>
+        <input type="text" placeholder="Indirizzo" required>
+        <input type="text" placeholder="Città" required>
+        <input type="text" placeholder="CAP" required>
+        <div class="privacy-container">
+          <div class="privacy-text">
+            La presente Privacy Policy descrive le modalità di raccolta e trattamento dei dati personali su questo sito. Raccogliamo solo i dati necessari per processare il tuo ordine e migliorare la tua esperienza d'acquisto. I tuoi dati sono protetti e non verranno condivisi con terze parti senza il tuo consenso. Hai il diritto di accedere, modificare o richiedere la cancellazione dei tuoi dati in qualsiasi momento.
+          </div>
+          <div class="privacy-check">
+            <input type="checkbox" id="privacy-check" required>
+            <label for="privacy-check">Ho letto e accetto la Privacy Policy</label>
+          </div>
+        </div>
+        <button type="submit" class="checkout-submit">Conferma Ordine</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+<div class="cookie-banner">
+    <p>Questo sito utilizza i cookie per migliorare l'esperienza utente. Continuando a navigare, accetti la nostra Privacy Policy.</p>
+    <div class="cookie-buttons">
+      <button class="cookie-reject">Rifiuta</button>
+      <button class="cookie-accept">Accetta</button>
+    </div>
+  </div>
+</body>
+</html>
