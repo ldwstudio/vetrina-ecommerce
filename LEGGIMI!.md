@@ -3,8 +3,6 @@
 
 Landing page responsive per negozio Shopify, pensata per dropshipper e business online che vogliono una presenza professionale, chiara e veloce da navigare.
 
-## 🔗 Demo Online
-
 👉 [![Live Demo](https://img.shields.io/badge/Demo-online-blue?style=for-the-badge)](https://ldwstudio.github.io/vetrina-shopify/)
 
 ## ✨ Caratteristiche
@@ -27,8 +25,9 @@ Landing page responsive per negozio Shopify, pensata per dropshipper e business 
 
 **LDW Studio** – Creo siti moderni e strumenti web su misura  
 📬 [![Contattami](https://img.shields.io/badge/Email-luca@arredoweb.com-blue?style=for-the-badge&logo=gmail)](mailto:luca@arredoweb.com)
-🌐 [ldwstudio.github.io](https://ldwstudio.github.io)
+🌐 [![LDW Studio](https://img.shields.io/badge/Sito-LDW%20Studio-blue?style=for-the-badge&logo=internet-explorer)](https://ldwstudio.github.io)
 
+[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)](https://ldwstudio.github.io)
 ---
 
 ### 📌 Vuoi una versione personalizzata?
