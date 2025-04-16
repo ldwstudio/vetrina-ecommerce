@@ -1,7 +1,7 @@
 
 # Vetrina Shopify – LDW Studio
 
-Landing page responsive per negozio Shopify, pensata per dropshipper e business online che vogliono una presenza professionale, chiara e veloce da navigare.
+Landing page responsive per negozio Shopify o qualsiasi altro e-commerce, pensata per dropshipper e business online che vogliono una presenza professionale, chiara e veloce da navigare.
 
 👉 [![Live Demo](https://img.shields.io/badge/Demo-online-blue?style=for-the-badge)](https://ldwstudio.github.io/vetrina-shopify/)
 
